@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "bd1120a7-dc71-9884-5dde-a454d17d69e7",
+  "instructors": {
+    "content": [
+      "2a1a2add-3d97-38ad-1997-df1f491b4bcd",
+      "49824b74-8dfc-5cd7-d8ea-02a3fdaa0252"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ca394894-1878-dd92-2e14-8a95f7b2c161",
+    "website": "14-271-industrial-organization-i-fall-2005"
+  },
+  "course_title": "Industrial Organization I",
+  "course_description": "The course provides a graduate level introduction to Industrial Organization. It is designed to provide a broad introduction to topics and industries that current researchers are studying as well as to expose students to a wide variety of techniques. The course integrates theoretical models and empirical studies.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.271",
+  "course_image_thumbnail": {
+    "content": "bcb8dcb7-fc89-36a2-319e-9af6649eef97",
+    "website": "14-271-industrial-organization-i-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "89997a89-02aa-4ada-91ab-540371464e12",
+  "site_short_id": "14.271-fall-2005",
+  "site_url_path": "courses/14-271-industrial-organization-i-fall-2005",
+  "title": "Course Metadata"
+}
