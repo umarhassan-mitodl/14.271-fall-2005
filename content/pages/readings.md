@@ -12,44 +12,44 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-This section contains the required and supplemental readings for the course. Readings are also presented by {{% resource_link "1f278ce5-914a-4447-950a-a18bdb6e4ad6" "session" %}}.
+This section contains the required and supplemental readings for the course. Readings are also presented by [session](https://ocw-studio.odl.mit.edu/sites/14-271-industrial-organization-i-fall-2005/type/page/edit/a85edc99-ad27-00f5-b901-03c3cb2dd918/#readings).
 
 The primary text for the course is:
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988. ISBN: 0262200716.          
-The text provides an overview of most of the theoretical topics. The text is supplemented with a large number of recent journal articles. Many of these articles are easily accessible via {{% resource_link "437d8ede-f27e-4a9e-adfd-0a0dae1e53f8" "JSTOR" %}}.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988. ISBN: 0262200716.          
+The text provides an overview of most of the theoretical topics. The text is supplemented with a large number of recent journal articles. Many of these articles are easily accessible via [JSTOR](http://www.jstor.org/).
 
 ## Required Readings
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, chapter 1 (including supplementary section). ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, chapter 1 (including supplementary section). ISBN: 0262200716.
 
-Nevo, A., and Igal Hendel. "Measuring the Implications of Sales and Consumer Stockpiling Behavior." Working Paper, June 2003. ({{% resource_link "529832a3-58b9-436c-bb57-fea6c947d178" "PDF" %}})
+Nevo, A., and Igal Hendel. "Measuring the Implications of Sales and Consumer Stockpiling Behavior." Working Paper, June 2003. ([PDF](https://www.nber.org/papers/w11307))
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 3.0-3.5. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 3.0-3.5. ISBN: 0262200716.
 
 Shepard, A. "Price Discrimination and Retail Configuration." *Journal of Political Economy* 99 (February 1991): 30-53.
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, section 2.1 and chapter 5. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, section 2.1 and chapter 5. ISBN: 0262200716.
 
 Fisher, F. "Games Economists Play: A Noncooperative View." *Rand Journal of Economics* 20 (1989): 113-124.
 
 Stole, L. "Price Discrimination in Competitive Environments." *Handbook of Industrial Organization.* Vol. 3. (Forthcoming).
 
-Ellison, G. "A Model of Add-on Pricing." NBER Working Paper 9721. National Bureau of Economic Research, Cambridge, MA, May 2003. ({{% resource_link "84211b4a-f53e-4ec9-8dc7-b4429e2d18ef" "PDF" %}})
+Ellison, G. "A Model of Add-on Pricing." NBER Working Paper 9721. National Bureau of Economic Research, Cambridge, MA, May 2003. ([PDF](http://papers.nber.org/papers/w9721.pdf))
 
 Stahl, D. "Oligopolistic Pricing with Heterogeneous Consumer Search." *International Journal of Industrial Organization* 14 (April 1996): 243-268.
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, chapter 6. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, chapter 6. ISBN: 0262200716.
 
 Maskin E., and J. Tirole. "A Theory of Dynamic Oligopoly II: Price Competition, Kinked Demand Curves, and Edgeworth Cycles." *Econometrica* 56 (May 1988): 571-599.
 
 Bresnahan, T. "Empirical Studies of Industries with Market Power." In *Handbook of Industrial Organization*. Vol. 1. Edited by R. Schmalensee and R. Willig. New York, NY: North Holland, 1989. ISBN: 0444704345.
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 7.1-7.2. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 7.1-7.2. ISBN: 0262200716.
 
-![Buy at MIT Press](/images/mp_logo.gif) ———. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, chapter 8, pp. 207-8. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) ———. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, chapter 8, pp. 207-8. ISBN: 0262200716.
 
-![Buy at MIT Press](/images/mp_logo.gif) ———. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 9.0-9.7. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) ———. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 9.0-9.7. ISBN: 0262200716.
 
 Fudenberg, D., and J. Tirole. "A 'Signal-Jamming' Theory of Predation." *Rand Journal of Economics* 17 (Autumn 1986): 366-76.
 
@@ -57,17 +57,17 @@ Genesove, D. "Adverse Selection in the Wholesale Used Car Market." *Journal of P
 
 Klemperer, P. "Auction Theory: A Guide to the Literature." *Journal of Economic Surveys* 13 (July 1999): 227-286.
 
-Athey S., and P. Haile. "Empirical Models of Auctions." NBER Working Paper 12126. National Bureau of Economic Research, Cambridge, MA, March 2006. ({{% resource_link "428524f8-82d8-4b17-a105-fda9031b4ed8" "PDF" %}})
+Athey S., and P. Haile. "Empirical Models of Auctions." NBER Working Paper 12126. National Bureau of Economic Research, Cambridge, MA, March 2006. ([PDF](http://papers.nber.org/papers/w12126.pdf))
 
-Bresnahan, T. "{{% resource_link "c9dd0399-b234-4a36-99a5-88d933c3f8ec" "Network Effects and Microsoft\"(PDF" %}}). Stanford University, Palo Alto, CA, 2001. 
+Bresnahan, T. "[Network Effects and Microsoft"(PDF](https://drive.google.com/file/d/11AzIZvpJRsy5zFzzzJeLI7nTBerYOnBd/view)). Stanford University, Palo Alto, CA, 2001. 
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 10.1-10.5 and 8.1.3. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 10.1-10.5 and 8.1.3. ISBN: 0262200716.
 
 Kremer, M. "Patent Buy-outs: A Mechanism for Encouraging Innovation." *Quarterly Journal of Economics* (November 1998): 1137-1167.
 
 Ellison, G., and D. Fudenberg. "Rules of Thumb for Social Learning." *Journal of Political Economy* 101 (1993): 612-643.
 
-Ellison, G. "Bounded Rationality in Industrial Organization." In *Advances in Economics and Econometrics: Theory and Applications*. Edited by Richard Burnell, Whitney Newey, and Torsten Persson. Ninth World Congress. New York, NY: Cambridge University Press, forthcoming. ({{% resource_link "78f4d3df-d165-4232-9e13-d9af1656489e" "PDF" %}})
+Ellison, G. "Bounded Rationality in Industrial Organization." In *Advances in Economics and Econometrics: Theory and Applications*. Edited by Richard Burnell, Whitney Newey, and Torsten Persson. Ninth World Congress. New York, NY: Cambridge University Press, forthcoming. ([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ACB0E880B611BA10E304BBB70883401D/9781139052276c5_p142-174_CBO.pdf/bounded_rationality_in_industrial_organization.pdf))
 
 Vigna, S. Della, and U. Malmendier. "Contract Design and Self-Control: Theory and Evidence." *Quarterly Journal of Economics* 119 (2004): 353-402.
 
@@ -77,7 +77,7 @@ Berry, S. "Estimating Discrete-Choice Models of Product Differentiation." *Rand 
 
 Bresnahan, T. "Competition and Collusion in the American Automobile Industry: The 1955 Price War." *Journal of Industrial Economics* 35 (June 1987): 457-482.
 
-Ellison, G., and S. F. Ellison. "Search, Obfuscation, and Price Elasticities on the Internet." NBER Working Paper 10570. Cambridge, MA: National Bureau of Economic Research, 2004. ({{% resource_link "1e70c6a4-241e-42fb-a8fa-fea27c3200a7" "PDF" %}})
+Ellison, G., and S. F. Ellison. "Search, Obfuscation, and Price Elasticities on the Internet." NBER Working Paper 10570. Cambridge, MA: National Bureau of Economic Research, 2004. ([PDF](http://papers.nber.org/papers/w10570.pdf))
 
 Porter, R. "A Study of Cartel Stability: The Joint Economic Committee, 1880-1886." *Bell Journal of Economics* 14 (Autumn 1983): 301-314.
 
@@ -89,11 +89,11 @@ Berry, S., J. Levinsohn, and A. Pakes. "Automobile Prices in Market Equilibrium.
 
 Bresnahan, T., and P. Reiss. "Entry and Competition in Concentrated Markets." *Journal of Political Economy* 99 (October 1991): 977-1009.
 
-Ellickson, P. "Supermarkets as a Natural Oligopoly." Duke University Department of Economics Working Paper 05-04, 2004. ({{% resource_link "2f1facc8-b275-4edb-99c1-5ceb76d3c264" "PDF" %}})
+Ellickson, P. "Supermarkets as a Natural Oligopoly." Duke University Department of Economics Working Paper 05-04, 2004. ([PDF](http://www.goodfoodworld.com/wp-content/uploads/2012/05/SupermarketsAsNO.pdf))
 
 Guerre, E., I. Perrigne, and Q. Vuong. "Optimal Nonparametric Estimation of First-Price Auctions." *Econometrica* 68, no. 3: 525-574.
 
-Bajarai, P., L. Benkard, and J. Levin, "Estimating Dynamic Models of Imperfect Competition." NBER Working Paper 10450. Cambridge, MA: National Bureau of Economic Research, July 2005. ({{% resource_link "fe95c613-7ad5-4f83-b893-340f8c1cde74" "PDF" %}})
+Bajarai, P., L. Benkard, and J. Levin, "Estimating Dynamic Models of Imperfect Competition." NBER Working Paper 10450. Cambridge, MA: National Bureau of Economic Research, July 2005. ([PDF](http://papers.nber.org/papers/w10450.pdf))
 
 ## {{< anchor "readings" >}}{{< /anchor >}}Readings by Session
 
@@ -109,13 +109,13 @@ READINGS
 Monopoly Pricing and Durable Goods
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, chapter 1 (including supplementary section). ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, chapter 1 (including supplementary section). ISBN: 0262200716.
 
 Gul, F., H. Sonnenschein, and R. Wilson. "Foundations of Dynamic Monopoly and the Coase Conjecture." *Journal of Economic Theory* 39 (1986): 155-190.
 
-Chevalier, J., A. Kashyap, and P. Rossi. "Why Don't Prices Rise During Periods of Peak Demand? Evidence from Scanner Data." *American Economic Review* 93 (March 2003):15-37. ({{% resource_link "289046a8-56c9-4eec-a477-4a62a1edeb91" "PDF" %}})
+Chevalier, J., A. Kashyap, and P. Rossi. "Why Don't Prices Rise During Periods of Peak Demand? Evidence from Scanner Data." *American Economic Review* 93 (March 2003):15-37. ([PDF](http://papers.nber.org/papers/w7981.pdf))
 
-Nevo, A., and Igal Hendel. "Measuring the Implications of Sales and Consumer Stockpiling Behavior." Working Paper, June 2003. ({{% resource_link "e0d26f4e-072c-4477-ae6e-03bb93941289" "PDF" %}})
+Nevo, A., and Igal Hendel. "Measuring the Implications of Sales and Consumer Stockpiling Behavior." Working Paper, June 2003. ([PDF](https://www.researchgate.net/publication/246795436_Measuring_the_Implications_of_Sales_and_Consumer_Stockpiling_Behavior1))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -123,7 +123,7 @@ Nevo, A., and Igal Hendel. "Measuring the Implications of Sales and Consumer Sto
 Price Discrimination
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 3.0-3.5. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 3.0-3.5. ISBN: 0262200716.
 
 Deneckere, R., and R. P. McAfee. "Damaged Goods." *Journal of Economics and Management Strategy* 5 (1996): 149-174.
 
@@ -133,7 +133,7 @@ McAfee, R. P., J. McMillan, and M. Whinston. "Multiproduct Monopoly, Commodity B
 
 Fudenberg, D., and J. Tirole. "Upgrades, Trade-ins, and Buybacks." *Rand Journal of Economics* 29 (Summer 1998): 235-258.
 
-Armstrong, M. "{{% resource_link "6aed2ffe-7979-496e-ab0b-381e867be256" "Recent Developments in the Economics of Price Discrimination\"(PDF)" %}}. Econ Working Paper Archive, Industrial Organization Paper, 2006. 
+Armstrong, M. "[Recent Developments in the Economics of Price Discrimination"(PDF)](https://discovery.ucl.ac.uk/id/eprint/14558/1/14558.pdf). Econ Working Paper Archive, Industrial Organization Paper, 2006. 
 
 Borenstein, S., and N. Rose. "Competition and Price Dispersion in the U.S. Airline Industry." *Journal of Political Economy* 102 (August 1994): 653-683.
 
@@ -151,7 +151,7 @@ Empirical Models of Demand
 
 Deaton, A., and J. Muellbauer. *Economics and Consumer Behavior*. Cambridge, UK: Cambridge University Press, 1980, Parts 1 and 2. ISBN: 0521296765.
 
-Anderson, S., A. De Palma, and J. Thisse. {{% resource_link "22364b9f-ba09-4a4e-b052-314d355a328b" "*Discrete Choice Theory of Product Differentiation*" %}}. Cambridge, MA: MIT Press, 1992, Chapters 2-5. ISBN: 026201128X.
+Anderson, S., A. De Palma, and J. Thisse. [*Discrete Choice Theory of Product Differentiation*](https://mitpress.mit.edu/books/discrete-choice-theory-product-differentiation). Cambridge, MA: MIT Press, 1992, Chapters 2-5. ISBN: 026201128X.
 
 Epple, D. "Hedonic Prices and Implicit Markets: Estimating Demand and Supply Functions for Differentiated Products." *Journal of Political Economy* 95 (February 1987): 59-80.
 
@@ -171,7 +171,7 @@ Ellison, S., I. Cockburn, Z. Griliches, and J. Hausman. "Characteristics of Dema
 Static Competition and Models of Differentiation
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, section 2.1 and chapter 5. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, section 2.1 and chapter 5. ISBN: 0262200716.
 
 Fisher, F. "Games Economists Play: A Noncooperative View." *Rand Journal of Economics* 20 (1989): 113-124.
 
@@ -183,13 +183,13 @@ Shaked, A., and J. Sutton. "Relaxing Price Competition through Product Different
 
 Holmes, T. "The Effects of Third-Degree Discrimination in Oligopoly." *American Economic Review* 79 (1989): 244-250.
 
-Ellison, G. "A Model of Add-on Pricing." NBER Working Paper 9721. National Bureau of Economic Research, Cambridge, MA, May 2003. ({{% resource_link "84211b4a-f53e-4ec9-8dc7-b4429e2d18ef" "PDF" %}})
+Ellison, G. "A Model of Add-on Pricing." NBER Working Paper 9721. National Bureau of Economic Research, Cambridge, MA, May 2003. ([PDF](http://papers.nber.org/papers/w9721.pdf))
 
 Corts, K. "Third Degree Price Discrimination in Oligopoly: All-Out Competition and Strategic Commitment." *Rand Journal of Economics* 29 (Summer 1998): 306-323.
 
 Fudenberg, D., and J. Tirole. "Customer Poaching and Brand Switching." *Rand Journal of Economics* 31 (Spring 2000): 634-657.
 
-Spector, D. "The Noisy Duopolist." *Contributions to Theoretical Economics* 2, no. 1 (2002). ({{% resource_link "fa1f7659-d627-443a-ba7c-dafb36a98fb1" "PDF" %}})
+Spector, D. "The Noisy Duopolist." *Contributions to Theoretical Economics* 2, no. 1 (2002). ([PDF](http://www.bepress.com/cgi/viewcontent.cgi?article=1053&context=bejte))
 
 Bresnahan, T. "Competition and Collusion in the American Automobile Industry: The 1955 Price War." *Journal of Industrial Economics* 35 (June 1987): 457-482.
 
@@ -211,9 +211,9 @@ Baye, M., and J. Morgan. "Information Gatekeepers on the Internet and the Compet
 
 Sorensen, A. "Equilibrium Price Dispersion in Retail Markets for Prescription Drugs." *Journal of Political Economy* 108 (August 2000): 833-850.
 
-———. "An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs." University of San Diego, CA, September 14, 2001. ({{% resource_link "98de2fb7-9c13-4b12-972a-c0b6a638fec3" "PDF" %}})
+———. "An Empirical Model of Heterogeneous Consumer Search for Retail Prescription Drugs." University of San Diego, CA, September 14, 2001. ([PDF](http://www.nber.org/papers/w8548))
 
-Ellison, G., and S. F. Ellison. "Search, Obfuscation, and Price Elasticities on the Internet." NBER Working Paper 10570. Cambridge, MA: National Bureau of Economic Research, 2004. ({{% resource_link "1e70c6a4-241e-42fb-a8fa-fea27c3200a7" "PDF" %}})
+Ellison, G., and S. F. Ellison. "Search, Obfuscation, and Price Elasticities on the Internet." NBER Working Paper 10570. Cambridge, MA: National Bureau of Economic Research, 2004. ([PDF](http://papers.nber.org/papers/w10570.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -221,7 +221,7 @@ Ellison, G., and S. F. Ellison. "Search, Obfuscation, and Price Elasticities on 
 Dynamic Competition
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, chapter 6. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, chapter 6. ISBN: 0262200716.
 
 Rotemberg J., and G. Saloner. "A Supergame-Theoretic Model of Price Wars During Booms." *American Economic Review* 76 (June 1986): 390-407.
 
@@ -237,7 +237,7 @@ Porter, R. "A Study of Cartel Stability: The Joint Economic Committee, 1880-1886
 
 Ellison, G. "Theories of Cartel Stability and the Joint Executive Committee." *Rand Journal of Economics* 25 (Spring 1994): 37-57.
 
-Noel, M. "{{% resource_link "e75060c8-51f1-4d6d-b9ce-e292b8ac4235" "Edgeworth Price Cycles in Retail Gasoline Markets" %}}." PhD diss., MIT, 2002. 
+Noel, M. "[Edgeworth Price Cycles in Retail Gasoline Markets](https://dspace.mit.edu/handle/1721.1/8416)." PhD diss., MIT, 2002. 
 
 Genesove, D., and W. Mullin. "Rules, Communication, and Collusion: Narrative Evidence from the Sugar Institute Case." *American Economic Review* 91 (June 2001): 379-398.
 
@@ -283,9 +283,9 @@ Hausman, J., and G. Leonard. "The Competitive Effects of a New Product Introduct
 Entry
 {{< tdclose >}}{{< tdopen >}}
 
-Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 7.1-7.2. ISBN: 0262200716.
+Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 7.1-7.2. ISBN: 0262200716.
 
-Sutton, J. {{% resource_link "f6a912d6-8e08-48c2-ae43-f114fdf30682" "*Sunk Costs and Market Structure*" %}}. Cambridge, MA: MIT Press, 1991, Chapters 1-2. ISBN: 0262193051.
+Sutton, J. [*Sunk Costs and Market Structure*](http://mitpress.mit.edu/books/sunk-costs-and-market-structure). Cambridge, MA: MIT Press, 1991, Chapters 1-2. ISBN: 0262193051.
 
 Jovanovic, B. "Selection and the Evolution of Industry." *Econometrica* (May 1982): 649-670.
 
@@ -311,7 +311,7 @@ Dunne, T., M. Roberts, and L. Samuelson. "Patterns of Firm Entry and Exit in U.S
 Strategic Investment
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, chapter 8, pp. 207-8. ISBN: 0262200716.
+![Buy at MIT Press](/images/mp_logo.gif) Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, chapter 8, pp. 207-8. ISBN: 0262200716.
 
 Schmalensee, R. "Entry Deterrence in the Ready-to-Eat Breakfast Cereal Industry." *Bell Journal of Economics* 9 (Autumn 1978): 305-327.
 
@@ -321,13 +321,13 @@ Aghion, P., and P. Bolton. "Entry Prevention Through Contracts with Customers." 
 
 Chevalier, J. "Capital Structure and Product Market Competition: Empirical Evidence from the Supermarket Industry." *American Economic Review* 85, no. 3 (June 1995): 415-435.
 
-Ellison, G., and S. Ellison. "Strategic Entry Deterrence and the Behavior of Pharmaceutical Incumbents Prior to Patent Expiration." MIT Working Paper, Cambridge, MA, 2000. ({{% resource_link "f792db57-e759-408a-afa5-7bad0465a535" "PDF" %}})
+Ellison, G., and S. Ellison. "Strategic Entry Deterrence and the Behavior of Pharmaceutical Incumbents Prior to Patent Expiration." MIT Working Paper, Cambridge, MA, 2000. ([PDF](https://pdfs.semanticscholar.org/aa6e/ef4e0ae258cb14dfdd53a7d4f9a0baa1334c.pdf?_ga=2.247373063.2016510353.1566239404-159250059.1566239404))
 
 Kadiyali, V. "Entry, its Deterrence, and its Accommodation: A Study of the U.S. Photographic Film Industry." *The Rand Journal of Economics* 27 (Autumn 1996): 452-478.
 
 Lieberman, M. "Post Entry Investment and Market Structure in the Chemical Processing Industry." *Rand Journal of Economics* 18 (Winter 1987): 533-549.
 
-Ellickson, P. "Supermarkets as a Natural Oligopoly." Duke University Department of Economics Working Paper 05-04, 2004. ({{% resource_link "bb058e56-6d74-4f94-a479-9d6da94f6a52" "PDF" %}})
+Ellickson, P. "Supermarkets as a Natural Oligopoly." Duke University Department of Economics Working Paper 05-04, 2004. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.1429&rep=rep1&type=pdf))
 
 Smiley, R. "Empirical Evidence on Strategic Entry Deterrence." *International Journal of Industrial Organization* 6 (June 1988): 167-180.
 
@@ -337,7 +337,7 @@ Smiley, R. "Empirical Evidence on Strategic Entry Deterrence." *International Jo
 Asymmetric Information
 {{< tdclose >}}{{< tdopen >}}
 
-Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 9.0-9.7. ISBN: 0262200716.
+Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 9.0-9.7. ISBN: 0262200716.
 
 Ordover, J., and G. Saloner. "Predation, Monopolization and Antitrust." In *Handbook of Industrial Organization*. Vol. 1. Edited by R. Schmalensee and R. Willig. New York, NY: North Holland, 1989. ISBN: 0444704345.
 
@@ -379,7 +379,7 @@ Laffont, J. -J., H. Ossard, and Q. Vuong. "Econometrics of First Price Auctions.
 
 Guerre, E., I. Perrigne, and Q. Vuong. "Optimal Nonparametric Estimation of First-Price Auctions." *Econometrica* 68, no. 3: 525-574.
 
-Athey, S., and P. Haile. "Empirical Models of Auctions." National Bureau of Economic Research, Cambridge, MA, March 13, 2006. ({{% resource_link "cb3173dc-9cee-44b7-ab04-a3610d3ddddc" "PDF" %}})
+Athey, S., and P. Haile. "Empirical Models of Auctions." National Bureau of Economic Research, Cambridge, MA, March 13, 2006. ([PDF](http://www.econ.yale.edu/~pah29/athey-haile-eswc.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -395,7 +395,7 @@ Fudenberg, D., and J. Tirole. "Pricing Under the Threat of Entry by the Sole Sup
 
 Ellison, G., and D. Fudenberg. "The Neo-Luddite's Lament: Excessive Upgrades in the Software Industry." *Rand Journal of Economics* 31 (Summer 2000): 253-272.
 
-Bresnahan, T. {{% resource_link "c9dd0399-b234-4a36-99a5-88d933c3f8ec" "\"Network Effects and Microsoft\" (PDF" %}}). Stanford University, Palo Alto, CA, 2001. 
+Bresnahan, T. ["Network Effects and Microsoft" (PDF](https://drive.google.com/file/d/11AzIZvpJRsy5zFzzzJeLI7nTBerYOnBd/view)). Stanford University, Palo Alto, CA, 2001. 
 
 Gandal, N., M. Kende, and R. Rob. "The Dynamics of Technological Adoption in Hardware/Software Systems: The Case of Compact Disc Players." *Rand Journal of Economics* 31, no. 1 (Spring 2000): 43-61.
 
@@ -405,9 +405,9 @@ Gandal, N., M. Kende, and R. Rob. "The Dynamics of Technological Adoption in Har
 Dynamic Empirical Models
 {{< tdclose >}}{{< tdopen >}}
 
-Bajarai, P., L. Benkard, and J. Levin, "Estimating Dynamic Models of Imperfect Competition." NBER Working Paper 10450. Cambridge, MA: National Bureau of Economic Research, July 2005. ({{% resource_link "fe95c613-7ad5-4f83-b893-340f8c1cde74" "PDF" %}})
+Bajarai, P., L. Benkard, and J. Levin, "Estimating Dynamic Models of Imperfect Competition." NBER Working Paper 10450. Cambridge, MA: National Bureau of Economic Research, July 2005. ([PDF](http://papers.nber.org/papers/w10450.pdf))
 
-Ryan, S. "The Costs of Environmental Regulation in a Concentrated Industry." MIT Center for Energy and Environmental Policy Research Working Paper 05010. MIT, Cambridge, MA. ({{% resource_link "919f9b3d-af61-4ef8-bca4-7c7e6f190fc9" "PDF" %}})
+Ryan, S. "The Costs of Environmental Regulation in a Concentrated Industry." MIT Center for Energy and Environmental Policy Research Working Paper 05010. MIT, Cambridge, MA. ([PDF](https://onlinelibrary.wiley.com/doi/epdf/10.3982/ECTA6750))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -415,11 +415,11 @@ Ryan, S. "The Costs of Environmental Regulation in a Concentrated Industry." MIT
 Patents and Technology Diffusion
 {{< tdclose >}}{{< tdopen >}}
 
-Tirole, Jean. {{% resource_link "b689a600-5271-4578-b210-4ba77e94c49f" "*The Theory of Industrial Organization*" %}}. Cambridge, MA: MIT Press, 1988, sections 10.1-10.5 and 8.1.3. ISBN: 0262200716.
+Tirole, Jean. [*The Theory of Industrial Organization*](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1988, sections 10.1-10.5 and 8.1.3. ISBN: 0262200716.
 
 Kremer, M. "Patent Buy-outs: A Mechanism for Encouraging Innovation." *Quarterly Journal of Economics* (November 1998): 1137-1167.
 
-Bessen, J., and E. Maskin. "Sequential Innovation, Patents, and Imitation." MIT Department of Economics Working Paper No. 00-01. MIT, Cambridge, MA, 2000. ({{% resource_link "7bcdc7a1-7d60-467f-a787-d3badb2955bf" "PDF" %}})
+Bessen, J., and E. Maskin. "Sequential Innovation, Patents, and Imitation." MIT Department of Economics Working Paper No. 00-01. MIT, Cambridge, MA, 2000. ([PDF](http://www.sss.ias.edu/files/papers/econpaper25.pdf))
 
 Green, J., and S. Scotchmer. "On the Division of Profit in Sequential Innovation." *Rand Journal of Economics* 26 (Spring 1995): 131-146.
 
@@ -445,13 +445,13 @@ Saloner, G., and A. Shepard. "Adoption of Technologies with Network Effects: An 
 Bounded Rationality
 {{< tdclose >}}{{< tdopen >}}
 
-Ellison, G. "Bounded Rationality in Industrial Organization." In *Advances in Economics and Econometrics: Theory and Applications*. Edited by Richard Burnell, Whitney Newey, and Torsten Persson. Ninth World Congress. New York, NY: Cambridge University Press, forthcoming. ({{% resource_link "78f4d3df-d165-4232-9e13-d9af1656489e" "PDF" %}})
+Ellison, G. "Bounded Rationality in Industrial Organization." In *Advances in Economics and Econometrics: Theory and Applications*. Edited by Richard Burnell, Whitney Newey, and Torsten Persson. Ninth World Congress. New York, NY: Cambridge University Press, forthcoming. ([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ACB0E880B611BA10E304BBB70883401D/9781139052276c5_p142-174_CBO.pdf/bounded_rationality_in_industrial_organization.pdf))
 
 Vigna, S. Della, and U. Malmendier. "Contract Design and Self-Control: Theory and Evidence." *Quarterly Journal of Economics* 119 (2004): 353-402.
 
 Vigna, S. Della, Stefano, and U. Malmendier. "Paying Not to Go to the Gym." *American Economic Review*. (Forthcoming).
 
-Gabaix, X., and D. Laibson. "Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets." NBER Working Paper 11755. National Bureau of Economic Research, Cambridge, MA, November 2005. ({{% resource_link "58c8f6f9-52c1-4bdc-acc9-f48574534e73" "PDF" %}})
+Gabaix, X., and D. Laibson. "Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets." NBER Working Paper 11755. National Bureau of Economic Research, Cambridge, MA, November 2005. ([PDF](http://papers.nber.org/papers/w11755.pdf))
 
 Baye, M., and J. Morgan. "Price Dispersion in the Lab and on the Internet: Theory and Evidence." *Rand Journal of Economics* 35, no. 3: 449-466.
 

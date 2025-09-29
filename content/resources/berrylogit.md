@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-271-industrial-organization-i-fall-2005/6419408a34af10bcff063f19f550ca4b_berrylogit.csv
 file_size: 35452
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
