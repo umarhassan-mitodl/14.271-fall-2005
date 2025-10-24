@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-271-industrial-organization-i-fall-2005/93a7b175ac77190165b46a2a558b8b2e_broiler.csv
 file_size: 2844
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

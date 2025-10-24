@@ -2,8 +2,6 @@
 content_type: page
 description: The exams section contains the midterm and 3-hour final exam for the
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
